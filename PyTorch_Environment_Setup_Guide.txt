@@ -1,3 +1,5 @@
+ pandas
+
 PyTorch Environment Setup Guide (CPU Version with JupyterLab)
 
 STEP 1: Create Conda Environment

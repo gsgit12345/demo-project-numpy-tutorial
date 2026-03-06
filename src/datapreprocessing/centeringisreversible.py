@@ -40,3 +40,9 @@ print("Recovery Correct?:", np.allclose(X, X_recovered))
 variance = np.mean((X - mean) ** 2)
 
 print("Variance:", variance)
+
+
+# We will show:
+
+# 1️⃣ Centering is reversible
+# 2️⃣ Variance is NOT reversible

@@ -10,3 +10,4 @@ print(distance)
 distance = np.linalg.norm(feature1 - feature2)  # this is also used to find the euclidian distance in nd space between two points
 
 print(distance)
+

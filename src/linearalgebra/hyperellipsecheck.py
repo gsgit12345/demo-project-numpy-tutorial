@@ -21,7 +21,7 @@ def checkHypereclispe(point,axes):
 
 
 # Example 2D ellipse (a=3, b=2)
-print(hyper_ellipse_check([1, 1], [3, 2]))
+print(checkHypereclispe([1, 1], [3, 2]))
 
 # Example 3D ellipsoid (a=3, b=2, c=4)
-print(hyper_ellipse_check([1, 1, 1], [3, 2, 4]))
+print(checkHypereclispe([1, 1, 1], [3, 2, 4]))

@@ -28,3 +28,6 @@ t = np.linspace(-2, 2, 5)
 points = line_parametric(P0, d, t)
 
 print("Points on line:\n", points)
+
+
+# This gives multiple (x,y) points on the line.

@@ -25,3 +25,15 @@ def ellipseinMatrixForm(point,a,b):
 
 
 print(ellipseinMatrixForm([1, 1], 3, 2))
+
+
+
+# Let’s break it:
+
+# x.T → transpose of vector
+
+# @ → matrix multiplication
+
+# x.T @ A → gives intermediate vector
+
+# (x.T @ A) @ x → final scalar
